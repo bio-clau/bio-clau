@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Claudia Neme 👋
 
 <!--
 **bio-clau/bio-clau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:woman_technologist: I'm Full Stack Web Developer, with experience in MERN and PERN Stacks, using Linux as environment. :woman_technologist:
+
+🌱 I’m currently working on the final project of Henry Bootcamp 
+
+📫 How to reach me: clau.neme@gmail.com
+
+😄 Pronouns: She / Her
