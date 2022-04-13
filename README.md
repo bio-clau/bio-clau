@@ -34,5 +34,5 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-clauneme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clauneme/)](https://www.linkedin.com/in/clauneme/)
+[![Linkedin Badge](https://img.shields.io/badge/-nemeclaudia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nemeclaudia/)](https://www.linkedin.com/in/nemeclaudia/)
 [![Gmail Badge](https://img.shields.io/badge/-clau.neme@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clau.neme@gmail.com)](mailto:clau.neme@gmail.com)
