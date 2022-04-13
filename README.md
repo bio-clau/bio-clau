@@ -29,7 +29,7 @@
 - :seedling: I’m currently working on the final project of Henry Bootcamp
 - :computer: I'm currently working on MERN and PERN Stacks
 - :rocket: Always ready to collaborate for Dev Experiments
-- - 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her
 
 
 <h2 align="left">:heart: Let's get connected:</h2>
