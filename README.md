@@ -7,7 +7,6 @@
  </abc>
 </h2> 
 
-
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
