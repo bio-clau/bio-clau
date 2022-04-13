@@ -2,10 +2,9 @@
 
 <h2 align="left">
  <abc>
-  <br> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Claudia Neme, Full Stack Web Developer :computer:<br>
+  <br> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Full Stack Web Developer, with experience in MERN and PERN Stacks, using Linux as environment. woman_technologist<br>
  </abc>
 </h2> 
-
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -27,6 +26,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
+seedling I’m currently working on the final project of Henry Bootcamp
 - :computer: I'm currently working on MERN and PERN Stacks
 - :rocket: Always ready to collaborate for Dev Experiments
 - - 😄 Pronouns: She/Her
